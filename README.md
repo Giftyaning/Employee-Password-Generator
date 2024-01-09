@@ -2,6 +2,10 @@
 
 ![Employee Password Generator](Overview.png)
 
+
+Click the link to gain access to the Employee Password Generator!
+https://giftyaning.github.io/Password-Generator/
+
 # Overview
 
 This Password Generator is a simple tool that allows users to generate strong and secure passwords based on their preferences. Whether you need a password for your online accounts, applications, or any other purpose, this tool ensures the creation of robust and customizable passwords.
