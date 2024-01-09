@@ -1,6 +1,6 @@
 # Password-Generator
 
-¡[Employee Password Generator] (Overview.png)
+![Employee Password Generator](Overview.png)
 
 # Overview
 
