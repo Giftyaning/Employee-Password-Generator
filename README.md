@@ -4,7 +4,7 @@
 
 
 Click the link to gain access to the Employee Password Generator!
-https://giftyaning.github.io/Password-Generator/
+https://giftyaning.github.io/Employee-Password-Generator/
 
 # Overview
 
