@@ -1,9 +1,10 @@
 # Password-Generator
 
+¡[Employee Password Generator] (Overview.png)
+
 # Overview
 
 This Password Generator is a simple tool that allows users to generate strong and secure passwords based on their preferences. Whether you need a password for your online accounts, applications, or any other purpose, this tool ensures the creation of robust and customizable passwords.
-
 
 # Features
 
