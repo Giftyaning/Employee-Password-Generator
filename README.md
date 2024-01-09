@@ -24,15 +24,13 @@ Open the Password Generator application.
 
 Select your desired password length.
 
-Choose the character sets to include in your password (uppercase, 
+Choose the character sets to include in your password in the alert box (uppercase, 
 
 lowercase, numbers, special characters).
 
 Click the "Generate Password" button.
 
 Your secure password will be displayed on the screen.
-
-Copy the generated password to use it wherever needed.
 
 
 # Technologies Used
