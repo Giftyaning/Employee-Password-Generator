@@ -7,27 +7,15 @@
     <title>Employee Password Generator</title>
 </head>
 <body>
-    <div class="wrapper">
-        <header>
-            <h1>Click to Generate a New Password</h1>
-        </header>
-        <div class="card">
-            <div class="card-header">
-                <h2>Recommended Password</h2>
-            </div>
-            <div class="card-body">
-                <textarea
-                    readonly
-                    id="password"
-                    placeholder="Your Secure Password"
-                    aria-label="Generated Password"
-                ></textarea>
-            </div>
-            <div class="card-footer">
-                <button id="generate" class="btn">Generate Password</button>
-            </div>
-        </div>
+    <div class="container">
+        <h1>Employee Password generator</h1>
+        <p>Click the button to generate a password.</p>
+
+        <input type="text" id="password" placeholder="New Password">
+
+        <button onclick="createPassword()">Click Me</button>
     </div>
+    
 
     <script src="index.js"></script>
 </body>
