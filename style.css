@@ -8,6 +8,9 @@ h1{
 }
 
 .container{
-    padding: 10em;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    padding: 10em 3em;
 }
 
