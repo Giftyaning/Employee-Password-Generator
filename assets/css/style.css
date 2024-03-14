@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(67, 67, 149, 0.5);
+}
+
 /*Typography*/
 h1{
     font-size: clamp(3rem 4vw 5rem);
@@ -14,3 +18,11 @@ h1{
     padding: 10em 3em;
 }
 
+input{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+button{
+    background-color: transparent;
+    border: 1px dotted #fff;
+}

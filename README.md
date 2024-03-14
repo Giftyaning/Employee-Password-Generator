@@ -1,6 +1,6 @@
 # Employee Password-Generator
 
-![Employee Password Generator](Overview.png)
+![Employee Password Generator](assets/images/Passgen.jpeg)
 
 
 Click the link to gain access to the Employee Password Generator!
